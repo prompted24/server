@@ -26,9 +26,9 @@
 		"plan":"A"
 	},
 	"six": {
-		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-		"isToPage": true,
-		"plan":"B"
+		"url": "",
+		"isToPage": false,
+		"plan":"A"
 	},
 	"seven": {
 		"url": "",
@@ -36,9 +36,9 @@
 		"plan":"A"
 	},
 	"eight": {
-		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-		"isToPage": true,
-		"plan":"B"
+		"url": "",
+		"isToPage": false,
+		"plan":"A"
 	},
 	"nine": {
 		"url": "",
@@ -46,13 +46,13 @@
 		"plan":"A"
 	},
 	"ten": {
-		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-		"isToPage": true,
+		"url": "",
+		"isToPage": false,
 		"plan":"B"
 	},
 	"eleven": {
-		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-		"isToPage": true,
+		"url": "",
+		"isToPage": false,
 		"plan":"B"
 	},
 	"twelve": {
@@ -66,8 +66,8 @@
 		"plan":"A"
 	},
 	"fourteen": {
-		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
-		"isToPage": true,
+		"url": "",
+		"isToPage": false,
 		"plan":"B"
 	},
 	"fifteen": {
