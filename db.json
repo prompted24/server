@@ -91,14 +91,14 @@
 		"plan":"A"
 	},
 	"nineteen": {
-		"url": "",
-		"isToPage": false,
-		"plan":"A"
+		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
+		"isToPage": true,
+		"plan":"B"
 	},
 	"twenty": {
-		"url": "",
-		"isToPage": false,
-		"plan":"A"
+		"url": "https://www.bwinph.com/?uagt=wkapp003&path=root",
+		"isToPage": true,
+		"plan":"B"
 	}
     }
 }
